@@ -1,2 +1,0 @@
-# MyDreamProject
-TrulyYours
