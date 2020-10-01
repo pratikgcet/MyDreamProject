@@ -1,3 +1,1 @@
-# PratikGarg
-UBS
-Card
+UBS Card Project Made by Pratik Garg
